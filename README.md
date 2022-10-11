@@ -1,2 +1,1 @@
-# CSE110_Lab2
-https://j4cky1ove.github.io/CSE110_Lab2/
+J4cky1ove.github.io/fa22-cse110-lab3
