@@ -106,3 +106,7 @@ button:active {
 textarea[target=text]{
     color: red;
 }
+img{
+    width: 800px;
+    height: 450px;
+}
